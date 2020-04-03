@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/chairuosen/vue2-ace-editor#readme",
   "dependencies": {
-    "brace": "josecanhelp/vue2-ace-editor"
+    "brace": "josecanhelp/brace"
   }
 }
